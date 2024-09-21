@@ -6,6 +6,5 @@
 ![image](https://github.com/user-attachments/assets/c3ada48b-9860-43d0-a2c4-d0875cd7b046)
 ![image](https://github.com/user-attachments/assets/9f400e12-ce88-46fb-a818-4202378ad892)
 ![image](https://github.com/user-attachments/assets/20d53142-1666-4a3d-99c5-562b0a24b4a2)
-![image](https://github.com/user-attachments/assets/62daa32f-6024-4965-9f80-d62b122f2c15)
 
 http://127.0.0.1:5500/index.html
